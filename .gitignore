@@ -1,0 +1,10 @@
+build/
+runtime/
+*.class
+*.log
+data/*
+!data/clinica.csv
+*.tmp
+.idea/
+.vscode/
+.DS_Store
